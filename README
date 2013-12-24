@@ -1,6 +1,6 @@
-==PADLET big screen scroller
+==PADLET Big Screen Scroller
 
-Install
+=Install
 
 Upload the code to somewhere on your sever
 
@@ -25,6 +25,6 @@ Make sure that the web server has write access to padlet.csv
 
 Change the settings in the 'config' block on the index.php as needed
 
-Various other settings can be fiddled with int he script section of index.php to change the scroll speed etc.
-FOr more information see;
+Various other settings can be fiddled with in the script section of index.php to change the scroll speed etc.
+For more information see;
 http://owlgraphic.com/owlcarousel/#customizing

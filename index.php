@@ -8,9 +8,10 @@
 
 // ---CONFIG ---
 // the message to appear at the top of the wall
+// The code is found in the URL after the http://padlet.com/wall/
 $message = "This is the message text";
 // the code for the padlet wall you wish to use
-$padletCode = 'dkosma1y6x';
+$padletCode = 'xxxxxx';
 
 // database settings
 $dbhost ='localhost';

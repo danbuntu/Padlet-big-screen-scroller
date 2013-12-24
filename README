@@ -1,0 +1,30 @@
+==PADLET big screen scroller
+
+Install
+
+Upload the code to somewhere on your sever
+
+Create a database called 'padlet'
+
+Create the database table with the following code;
+
+CREATE TABLE `messages` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `subject` text,
+  `body` text,
+  `attachment` text,
+  `author` text,
+  `created` text,
+  `modified` text,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=32039 DEFAULT CHARSET=latin1;
+
+
+
+Make sure that the web server has write access to padlet.csv
+
+Change the settings in the 'config' block on the index.php as needed
+
+Various other settings can be fiddled with int he script section of index.php to change the scroll speed etc.
+FOr more information see;
+http://owlgraphic.com/owlcarousel/#customizing

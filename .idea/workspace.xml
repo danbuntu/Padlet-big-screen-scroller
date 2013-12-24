@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="786e2529-9b95-4450-91ae-1a5143820fa3" name="Default" comment="" />
+    <ignored path="padlet.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="padlet" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="56" selection-start="904" selection-end="904" vertical-scroll-proportion="0.34401348" vertical-offset="340" max-vertical-offset="2125">
+              <folding>
+                <element signature="e#6#88#0" expanded="true" />
+                <marker date="1387887035327" expanded="true" signature="1412:1432" placeholder="DELETE FROM ..." />
+                <marker date="1387887035327" expanded="true" signature="1744:1888" placeholder="INSERT INTO ..." />
+                <marker date="1387887035327" expanded="true" signature="2292:2337" placeholder="SELECT * FRO..messages..." />
+                <marker date="1387887035327" expanded="true" signature="2305:2315" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="16" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="16" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="82" max-vertical-offset="714">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/padlet.csv" />
+        <option value="$PROJECT_DIR$/styles" />
+        <option value="$PROJECT_DIR$/settings.php" />
+        <option value="$PROJECT_DIR$/styles.css" />
+        <option value="$PROJECT_DIR$/import.php" />
+        <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1672" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="padlet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="padlet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="padlet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="settings" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rsscreator" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dattwood\PhpstormProjects\padlet" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dattwood\PhpstormProjects\padlet" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="4ca0d201-482d-4b11-a8fa-f1e336492ea3" server_name="s-web4dev">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="786e2529-9b95-4450-91ae-1a5143820fa3" name="Default" comment="" />
+      <created>1387356183590</created>
+      <updated>1387356183590</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1672" y="-8" width="1696" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2761276" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26129428" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23992674" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="47" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="1360">
+          <folding>
+            <element signature="e#6#88#0" expanded="true" />
+            <marker date="1387887035327" expanded="true" signature="1412:1432" placeholder="DELETE FROM ..." />
+            <marker date="1387887035327" expanded="true" signature="1744:1888" placeholder="INSERT INTO ..." />
+            <marker date="1387887035327" expanded="true" signature="2292:2337" placeholder="SELECT * FRO..messages..." />
+            <marker date="1387887035327" expanded="true" signature="2305:2315" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="16" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="47" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="1360">
+          <folding>
+            <element signature="e#6#88#0" expanded="true" />
+            <marker date="1387887035327" expanded="true" signature="1412:1432" placeholder="DELETE FROM ..." />
+            <marker date="1387887035327" expanded="true" signature="1744:1888" placeholder="INSERT INTO ..." />
+            <marker date="1387887035327" expanded="true" signature="2292:2337" placeholder="SELECT * FRO..messages..." />
+            <marker date="1387887035327" expanded="true" signature="2305:2315" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="16" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="47" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="1360">
+          <folding>
+            <element signature="e#6#88#0" expanded="true" />
+            <marker date="1387887035327" expanded="true" signature="1412:1432" placeholder="DELETE FROM ..." />
+            <marker date="1387887035327" expanded="true" signature="1744:1888" placeholder="INSERT INTO ..." />
+            <marker date="1387887035327" expanded="true" signature="2292:2337" placeholder="SELECT * FRO..messages..." />
+            <marker date="1387887035327" expanded="true" signature="2305:2315" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="16" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="47" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+          <folding>
+            <element signature="e#6#88#0" expanded="true" />
+            <marker date="1387887035327" expanded="true" signature="1412:1432" placeholder="DELETE FROM ..." />
+            <marker date="1387887035327" expanded="true" signature="1744:1888" placeholder="INSERT INTO ..." />
+            <marker date="1387887035327" expanded="true" signature="2292:2337" placeholder="SELECT * FRO..messages..." />
+            <marker date="1387887035327" expanded="true" signature="2305:2315" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="16" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="0" selection-start="1743" selection-end="1758" vertical-scroll-proportion="0.0" vertical-offset="1190" max-vertical-offset="1309">
+          <folding>
+            <element signature="e#6#88#0" expanded="true" />
+            <marker date="1387887035327" expanded="true" signature="1412:1432" placeholder="DELETE FROM ..." />
+            <marker date="1387887035327" expanded="true" signature="1744:1888" placeholder="INSERT INTO ..." />
+            <marker date="1387887035327" expanded="true" signature="2292:2337" placeholder="SELECT * FRO..messages..." />
+            <marker date="1387887035327" expanded="true" signature="2305:2315" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="16" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="28" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
+          <folding>
+            <element signature="e#6#88#0" expanded="true" />
+            <marker date="1387887035327" expanded="true" signature="1412:1432" placeholder="DELETE FROM ..." />
+            <marker date="1387887035327" expanded="true" signature="1744:1888" placeholder="INSERT INTO ..." />
+            <marker date="1387887035327" expanded="true" signature="2292:2337" placeholder="SELECT * FRO..messages..." />
+            <marker date="1387887035327" expanded="true" signature="2305:2315" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="16" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="22" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1275">
+          <folding>
+            <element signature="e#6#88#0" expanded="true" />
+            <marker date="1387887035327" expanded="true" signature="1412:1432" placeholder="DELETE FROM ..." />
+            <marker date="1387887035327" expanded="true" signature="1744:1888" placeholder="INSERT INTO ..." />
+            <marker date="1387887035327" expanded="true" signature="2292:2337" placeholder="SELECT * FRO..messages..." />
+            <marker date="1387887035327" expanded="true" signature="2305:2315" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="16" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-2.0.3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/padlet.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="92" selection-start="1902" selection-end="1902" vertical-scroll-proportion="0.32692307" vertical-offset="0" max-vertical-offset="833" />
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="16" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="16" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="56" selection-start="904" selection-end="904" vertical-scroll-proportion="0.34401348" vertical-offset="340" max-vertical-offset="2125">
+          <folding>
+            <element signature="e#6#88#0" expanded="true" />
+            <marker date="1387887035327" expanded="true" signature="1412:1432" placeholder="DELETE FROM ..." />
+            <marker date="1387887035327" expanded="true" signature="1744:1888" placeholder="INSERT INTO ..." />
+            <marker date="1387887035327" expanded="true" signature="2292:2337" placeholder="SELECT * FRO..messages..." />
+            <marker date="1387887035327" expanded="true" signature="2305:2315" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
